@@ -1,0 +1,5 @@
+# pggraal extension
+comment = 'pggraal'
+default_version = '0.1.0'
+module_pathname = '$libdir/pggraal'
+relocatable = true
